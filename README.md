@@ -1,5 +1,4 @@
-Presentazione del progetto.
-Archiplanner è una web app innovativa progettata per gestire e archiviare le pratiche edilizie, rivolta a professionisti del settore come architetti, ingegneri e geometri. L'obiettivo dell'applicazione è semplificare l’organizzazione del lavoro, migliorare la gestione delle scadenze e dei documenti, e prevenire la perdita di informazioni cruciali legate al progetto.
+Presentazione del progetto. Archiplanner è una web app innovativa progettata per gestire e archiviare le pratiche edilizie, rivolta a professionisti del settore come architetti, ingegneri e geometri. L'obiettivo dell'applicazione è semplificare l’organizzazione del lavoro, migliorare la gestione delle scadenze e dei documenti, e prevenire la perdita di informazioni cruciali legate al progetto.
 
 Gli utenti possono caricare e salvare documenti come PDF (es. relazioni, autorizzazioni, certificazioni) e file DWG, relativi a tutte le fasi del progetto edilizio, comprese quelle burocratiche, tecniche ed economiche. L’app funge da archivio digitale sicuro e sempre accessibile, per tenere traccia di tutte le pratiche in corso.
 
